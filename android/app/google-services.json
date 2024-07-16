@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113738164023",
+    "project_id": "food-app-fe500",
+    "storage_bucket": "food-app-fe500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113738164023:android:95c1d923c66489c333dcb2",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6KeafF4ZtsJnod7gBx8TJzjn--wdOvY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
